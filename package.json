@@ -1,0 +1,19 @@
+{
+  "name": "fanhaodaquan",
+  "version": "1.0.0",
+  "description": "> https://github.com/imfht/fanhaodaquan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.zhlh6.cn:waifu-project/fanhaodaquan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "github-to-cdn": "^0.0.2"
+  }
+}
